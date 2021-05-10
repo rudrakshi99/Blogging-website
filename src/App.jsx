@@ -51,7 +51,7 @@ function App() {
         </Grid>
       </Container>
       <Footer
-        title="Footer"
+        title="Made by Rudrakshi"
         description="Something here to give the footer a purpose!"
       />
     </ThemeProvider>
